@@ -30,7 +30,7 @@
 
 </p>
 <p align="center">
-<img src="https://github.com/M0-san/Certificates/blob/main/Learn-GoLang.pdf" width="800">
+<img src="https://github.com/M0-san/Certificates/blob/main/Learn-GoLang.png" width="800">
 </p>
 
 ---
