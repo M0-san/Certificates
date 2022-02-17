@@ -1,10 +1,9 @@
 # Certificates
-
 ---
 
 </p>
 <p align="center">
-<img src="https://github.com/M0-san/Certificates/blob/main/Intermediate-ML-By_Kaggle.pdf" width="800">
+<img src="https://github.com/M0-san/Certificates/blob/main/Intro-to-Python-By-Kaggle.png" width="800">
 </p>
 
 ---
@@ -22,15 +21,6 @@
 
 </p>
 <p align="center">
-<img src="https://github.com/M0-san/Certificates/blob/main/Intro-to-Python-By-Kaggle.png" width="800">
-</p>
-
----
-
----
-
-</p>
-<p align="center">
 <img src="https://github.com/M0-san/Certificates/blob/main/Intermediate-ML-By_Kaggle.pdf" width="800">
 </p>
 
@@ -40,7 +30,7 @@
 
 </p>
 <p align="center">
-<img src="https://github.com/M0-san/Certificates/blob/main/Intermediate-ML-By_Kaggle.pdf" width="800">
+<img src="https://github.com/M0-san/Certificates/blob/main/Learn-GoLang.pdf" width="800">
 </p>
 
 ---
